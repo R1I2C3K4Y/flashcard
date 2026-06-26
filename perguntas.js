@@ -6,9 +6,11 @@ criaCartao(
 
 criaCartao(
     'Robótica',
-    'Qual a principal função dos sensores em robô'
-)   'Permite que o robô perceba o ambiente ao seu redor'
+    'Qual a principal função dos sensores em robô',
+    'Permite que o robô perceba o ambiente ao seu redor'
 
+
+)   
 criaCartao(
     'Robótica',
     'O que é uma função?',
