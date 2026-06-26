@@ -5,25 +5,24 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
+    'Robótica',
+    'Qual a principal função dos sensores em robô'
+)   'Permite que o robô perceba o ambiente ao seu redor'
 
 criaCartao(
-    'Programação',
+    'Robótica',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Robótica',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Robótica',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
