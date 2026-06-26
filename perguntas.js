@@ -19,13 +19,13 @@ criaCartao(
 
 criaCartao(
     'Robótica',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como são chamadas as peças responsáveis por fazer o robô se mover, como motores e rodas?',
+    'Atuadores'
 )
 
 criaCartao(
     'Robótica',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que constitui o 'cérebro' de um robô, onde as decisões são processadas?',
+    'A unidade de controle'
 )
 
