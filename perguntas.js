@@ -25,7 +25,7 @@ criaCartao(
 
 criaCartao(
     'Robótica',
-    'O que constitui o 'cérebro' de um robô, onde as decisões são processadas?',
+    'O que constitui o cérebro de um robô, onde as decisões são processadas?',
     'A unidade de controle'
 )
 
